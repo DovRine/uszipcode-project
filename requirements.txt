@@ -1,4 +1,6 @@
 attrs
+boto3==1.34.157
+botocore==1.34.157
 requests
 pathlib_mate
 atomicwrites
